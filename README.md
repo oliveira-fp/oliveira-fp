@@ -19,12 +19,7 @@ Desenvolvedor Back-End e Cientista Computacional, com atuação especialmente na
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
 ## 📊 GitHub Stats
-
-[![Fernando's GitHub stats](https://github-readme-stats.vercel.app/api?username=oliveira-fp&show_icons=true&theme=radical&hide_border=true)](https://github.com/oliveira-fp)
-
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=oliveira-fp&layout=compact&theme=radical&hide_border=true)](https://github.com/oliveira-fp)
-
-[![GitHub Streak](https://streak-stats.demolab.com/?user=oliveira-fp&theme=radical&hide_border=true)](https://git.io/streak-stats)
 
 ## 💻 Principais Implementações
 
