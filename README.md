@@ -1,8 +1,8 @@
 # 👋 Olá, eu sou Fernando! Seja bem-vindo!
 
-## 🚀 Desenvolvedor Back-End & Cientista Computacional
+## 🚀 Desenvolvedor Back-End, Programador Científico & Cientista de Dados
 
-Desenvolvedor Back-End e Cientista Computacional, com atuação especialmente na área acadêmica: sistema terrestre (atmosfera, oceano e superfície). Sou afccionado por tecnologia, inovação e resolução de problemas.
+Desenvolvedor Back-End, Programador Científico e Cientista Computacional, com atuação especialmente na área acadêmica: sistema terrestre (atmosfera, oceano e superfície). Sou afccionado por tecnologia, inovação e resolução de problemas.
 
 
 ## 🚀 Habilidades técnicas que uso/já usei no dia-a-dia
