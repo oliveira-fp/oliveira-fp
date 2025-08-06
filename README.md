@@ -5,7 +5,7 @@
 Desenvolvedor Back-End, Programador Científico e Cientista Computacional, com atuação especialmente na área acadêmica: sistema terrestre (atmosfera, oceano e superfície). Sou afccionado por tecnologia, inovação e resolução de problemas.
 
 
-## 🚀 Habilidades técnicas que uso/já usei no dia-a-dia
+## 🚀 Habilidades técnicas que uso/já usei no dia a dia
 
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
