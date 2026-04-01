@@ -1,8 +1,9 @@
-# 👋 Olá, eu sou Fernando! Seja bem-vindo!
+# 👋 Olá, eu sou Fernando Oliveira!
 
-## 🚀 Desenvolvedor Back-End, Programador Científico & Cientista de Dados
+## 🚀 Data Scientist | Data Engineer | Backend Developer
+**Transformando dados complexos em soluções de engenharia escaláveis.**
 
-Desenvolvedor Back-End, Programador Científico e Cientista Computacional, com atuação especialmente na área acadêmica: sistema terrestre (atmosfera, oceano e superfície). Sou afccionado por tecnologia, inovação e resolução de problemas.
+Sou Doutor em Meteorologia com foco em modelagem numérica e computação de alto desempenho (HPC). Minha atuação transita entre a **ciência de dados profunda** e a **engenharia de software**, com vasta experiência na construção de pipelines de dados operacionais (ETL/ELT) para instituições como **INPE** e **IAE**.
 
 
 ## 🚀 Habilidades técnicas que uso/já usei no dia a dia
@@ -18,10 +19,20 @@ Desenvolvedor Back-End, Programador Científico e Cientista Computacional, com a
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
-## 📊 GitHub Stats
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=oliveira-fp&layout=compact&theme=radical&hide_border=true)](https://github.com/oliveira-fp)
+### 📊 GitHub Stats
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=oliveira-fp&layout=compact&theme=vision-glow)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=oliveira-fp&show_icons=true&theme=vision-glow)
 
-## 💻 Principais Implementações
+### 🌊 Principais Implementações & Projetos
+
+#### 📡 Engenharia de Dados & Modelagem (HPC)
+* **Pipelines Operacionais:** Desenvolvimento de suítes de automação para os modelos **WRF** e **MOM6**, integrando ingestão de dados globais e processamento paralelo.
+* **Processamento Geofísico:** Sistemas de análise oceanográfica e atmosférica de larga escala utilizando Fortran, Python e bibliotecas de manipulação de dados científicos (NetCDF/HDF5).
+* **Automação de Pipelines (ETL):** Scripts de pré/pós-processamento para o sistema **TELEMAC-MASCARET**, reduzindo o tempo de setup operacional.
+
+#### 💻 Desenvolvimento Backend & Software
+* **WorkoutAPI:** API REST desenvolvida com **FastAPI**, utilizando Docker, PostgreSQL e Pydantic para gestão de dados de alta performance.
+* **Sistemas de Monitoramento:** Algoritmos de detecção de anomalias e validação estatística para variáveis de missão crítica (Aeroespacial/Ambiental).
 
 ### 🌊 Modelagem Computacional
 - Pré-processamento operacional para modelos hidrodinâmicos (TELEMAC)
