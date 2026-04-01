@@ -20,9 +20,9 @@ Sou Doutor em Meteorologia com foco em modelagem numérica e computação de alt
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
 ### 📊 GitHub Stats
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=oliveira-fp&layout=compact&theme=vision-glow)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=oliveira-fp&layout=compact&theme=vision-glow)] (https://github.com/oliveira-fp)
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=oliveira-fp&show_icons=true&theme=vision-glow)
-
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=oliveira-fp&layout=compact&theme=radical&hide_border=true)](https://github.com/oliveira-fp)
 ### 🌊 Principais Implementações & Projetos
 
 #### 📡 Engenharia de Dados & Modelagem (HPC)
